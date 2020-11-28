@@ -8,7 +8,7 @@ namespace HuffmanTest
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter the string:");
-            string input = "beep boop beer!";
+            string input = Console.ReadLine();
             HuffmanTree huffmanTree = new HuffmanTree();
 
             // Build the Huffman tree
