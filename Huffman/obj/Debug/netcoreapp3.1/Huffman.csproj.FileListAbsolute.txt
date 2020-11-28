@@ -1,0 +1,13 @@
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.exe
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.deps.json
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.json
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\Arthur\Desktop\coding\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.genruntimeconfig.cache
